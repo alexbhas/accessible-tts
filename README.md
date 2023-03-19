@@ -1,2 +1,11 @@
-# accessible-tts
-Allows the user to input text or pdf/docx files and get a text to speech version of the text
+#Accessible TTS
+Allows the user to enter text to convert to speech, or upload PDF/docx files.
+
+# How to run
+Run the following commands
+```
+pip install -r requirements.txt
+```
+```
+streamlit run tts.py
+```
